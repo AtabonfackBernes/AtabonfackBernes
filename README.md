@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtabonfackBernes
-- 👀 I’m interested in data science and Mobile App development 
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Deep learning 
+- 🌱 I’m currently carrying on with a masters Degree in Engineering in Artificial Intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can get to me using the email: "atabonfackbernes@gmail.com"
 
