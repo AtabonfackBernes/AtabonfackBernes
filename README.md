@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AtabonfackBernes
+- 👋 Hi, I’m @BernesLorierAtabonfack
 - 👀 I’m interested in Deep learning 
 - 🌱 I’m currently carrying on with a masters Degree in Engineering in Artificial Intelligence 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the Advancement of health Imaging in Africa
 - 📫 you can get to me using the email: "atabonfackbernes@gmail.com"
 
 <!---
